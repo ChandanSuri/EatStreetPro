@@ -1,0 +1,30 @@
+.item
+{
+	height:600px;
+}
+.thumbnail
+{
+	height:200px;
+	width:300px;
+}
+.row
+{
+	margin-top:50px;
+	margin:left:80px;
+	padding-left:100px;
+	position:relative;
+}
+/*.restaurants
+{
+	width:300px;
+	height:200px;
+}
+*/
+.page-header
+{
+	font-family:ar berkley;
+}
+#heading
+{
+	height:50px;
+}
